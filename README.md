@@ -1,2 +1,2 @@
 # sharing-github
-This repo contains some of the project tutorials that I have previously completed through MOOCs.
+This repository contains some of the project tutorials that I have previously completed through MOOCs.
